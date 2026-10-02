@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name,Age,Math,Physics,Chemistry,Attendance,Average,Performance
 Alex,18,85,78,92,95,85.0,Good
 Sam,19,72,88,81,89,80.33,Good
@@ -7,3 +8,14 @@ Mike,19,88,82,90,93,86.67,Good
 Sarah,18,95,91,94,99,93.33,Excellent
 Emma,19,76,79,85,86,80.0,Good
 Ryan,20,84,73,80,91,79.0,Needs Improvement
+=======
+Name,Age,Math,Physics,Chemistry,Attendance,Average,Performance
+Alex,18,85,78,92,95,85.0,Good
+Sam,19,72,88,81,89,80.33,Good
+John,18,91,94,87,97,90.67,Excellent
+David,20,65,71,68,78,68.0,Needs Improvement
+Mike,19,88,82,90,93,86.67,Good
+Sarah,18,95,91,94,99,93.33,Excellent
+Emma,19,76,79,85,86,80.0,Good
+Ryan,20,84,73,80,91,79.0,Needs Improvement
+>>>>>>> a5646fb0c19618651ba13429de462f7a846f721d

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name,Age,Math,Physics,Chemistry,Attendance
 Alex,18,85,78,92,95
 Sam,19,72,88,81,89
@@ -6,4 +7,14 @@ David,20,65,71,68,78
 Mike,19,88,82,90,93
 Sarah,18,95,91,94,99
 Emma,19,76,79,85,86
+=======
+Name,Age,Math,Physics,Chemistry,Attendance
+Alex,18,85,78,92,95
+Sam,19,72,88,81,89
+John,18,91,94,87,97
+David,20,65,71,68,78
+Mike,19,88,82,90,93
+Sarah,18,95,91,94,99
+Emma,19,76,79,85,86
+>>>>>>> a5646fb0c19618651ba13429de462f7a846f721d
 Ryan,20,84,73,80,91
